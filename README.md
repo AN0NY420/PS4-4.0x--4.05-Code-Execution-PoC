@@ -1,6 +1,6 @@
 PS4 4.0x Code Execution
 ==============
-This repo is specterdev's edit of the [4.0x webkit exploit](http://rce.party/ps4/) released by [qwertyoruiopz](https://twitter.com/qwertyoruiopz). The edit re-organizes, comments, and adds portability across 3.50 - 4.07 (3.50, 3.55, 3.70, 4.00,4.05[just added] and of course 4.06/4.07). The commenting and reorganization was mostly for my own learning experience, however hopefully others can find these comments helpful and build on them or even fix them if I've made mistakes. The exploit is much more stable than FireKaku and sets up the foundation for running basic ROP chains and returns to normal execution. Credit for the exploit goes completely to qwertyoruiopz.
+This repo is specterdev's edit of the [4.0x webkit exploit](http://rce.party/ps4/) released by [qwertyoruiopz](https://twitter.com/qwertyoruiopz). The edit re-organizes, comments, and adds portability across 3.50 - 4.07 (3.50, 3.55, 3.70, 4.00, 4.01, 4.05 and of course 4.06/4.07). The commenting and reorganization was mostly for my own learning experience, however hopefully others can find these comments helpful and build on them or even fix them if I've made mistakes. The exploit is much more stable than FireKaku and sets up the foundation for running basic ROP chains and returns to normal execution. Credit for the exploit goes completely to qwertyoruiopz.
 
 Organization
 ==============
@@ -25,4 +25,4 @@ Notes
 Credits
 ==============
 qwertyoruiopz - The original exploit, the likes of which can be found [here](http://rce.party/ps4/).
-Addedd 4.05 support by me 
+Addedd 4.01 and 4.05 support by AN0NY420
