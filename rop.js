@@ -66,7 +66,7 @@ var rop = function(p) {
     this.push(r9);
     this.push(rip);
     return this;
-  }
+  } 
 
   /* Loads the ROP chain and initializes it */
   this.run = function() {
