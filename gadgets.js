@@ -37,7 +37,7 @@ var generateBasicImportMap = function()
       '__stack_chk_fail':  getGadget('libSceWebKit2', 0x2729260), // __stack_chk_fail imported from libkernel
     },
     
-     '4.05':
+    '4.05':
     {
      'setjmp':            getGadget('libSceWebKit2', 0x270),     // setjmp imported from libkernel
      '__stack_chk_fail':  getGadget('libSceWebKit2', 0x2729260), // __stack_chk_fail imported from libkernel
