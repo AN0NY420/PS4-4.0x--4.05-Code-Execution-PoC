@@ -438,7 +438,7 @@ function run() {
                   primitive[5] = origData.hi;
 
                   return val;
-                }
+                } 
 
                 /* Purpose: Create a value (used for checking the primitive) */
                 var createval = function(val)
