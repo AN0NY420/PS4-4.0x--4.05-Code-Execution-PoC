@@ -25,4 +25,5 @@ Notes
 Credits
 ==============
 qwertyoruiopz - The original exploit, the likes of which can be found [here](http://rce.party/ps4/).
+
 Addedd 4.01 and 4.05 support by AN0NY420
